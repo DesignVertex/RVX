@@ -9,14 +9,14 @@ A Script to automatically patch the ReVanced Applications to the latest patches,
 <h1 align="center">
 Download
 </h1>
+<div align="center">
 
 ## [MicroG ReVanced:](https://github.com/ReVanced/GmsCore)
-
 [![Release](https://img.shields.io/github/v/release/ReVanced/GmsCore?label=All-arch&style=for-the-badge)](https://github.com/ReVanced/GmsCore/releases) 
 
 ---
 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://play.google.com/store/apps/details?id=com.google.android.youtube)  |
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://play.google.com/store/apps/details?id=com.google.android.youtube)  
 
 ### [Revanced Extended:](https://github.com/inotia00/revanced-patches/)
 
